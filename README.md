@@ -1,2 +1,2 @@
-# 2-refactoring-website
+# Refactoring-website
  Improving web accessibility challenge
